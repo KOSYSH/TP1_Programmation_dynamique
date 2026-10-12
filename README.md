@@ -26,7 +26,6 @@ src/
 
 ![Résultat de l'exécution](Screenshot_20261012_103453.png)
 
-### Explication ligne par ligne
 
 > **DAO instancie: ma.projet.dao.DaoImpl**
 Le programme a lu le fichier `config.txt` et a créé automatiquement
