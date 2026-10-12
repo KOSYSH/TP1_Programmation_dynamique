@@ -1,11 +1,5 @@
 # TP1 — Injection de Dépendances par Réflexion Java
 
-## Description
-
-Ce projet montre comment faire de l'injection de dépendances en Java
-sans framework, en utilisant la réflexion pour charger et connecter
-les classes dynamiquement depuis un fichier de configuration.
-
 ---
 
 ## Structure du projet
@@ -53,10 +47,6 @@ Le Métier reçoit `100.0` et effectue le calcul : `100.0 × 2 = 200.0`.
 > **Resulats = 200.0**
 Le résultat final `200.0` est affiché dans la console.
 
----
 
-## Technologies utilisées
 
-- **Java** — Réflexion (`Class.forName`, `Constructor`, `Method`)
-- **Maven** — Gestion du projet
-- **IntelliJ IDEA** — Environnement de développement
+
